@@ -19,6 +19,7 @@ setup(name='spheroid-tracking',
             "trackpy",
             "shapely",
             "jupyter",
-            "pims"
+            "pims",
+            "clickpoints"
       ],
 )
